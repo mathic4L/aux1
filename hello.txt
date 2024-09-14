@@ -1,2 +1,1 @@
-hello world!
-edit from origin/test
+it's test
